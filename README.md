@@ -1,1 +1,5 @@
-# DS
+# Data Structure
+
+## Arrays
+---
+## Linked Lists
